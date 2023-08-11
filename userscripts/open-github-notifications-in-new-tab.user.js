@@ -2,8 +2,12 @@
 // @name        Open notifications in new tab
 // @namespace   https://github.com/scarf005
 // @match       https://github.com/notifications
+// @downloadURL https://github.com/scarf005/snippets/blob/main/userscripts/open-github-notifications-in-new-tab.user.js
+// @homepageURL https://github.com/scarf005/snippets
+// @supportURL  https://github.com/scarf005/snippets/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
+// @icon        https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      scarf
 // @description pinned notifications tab + Notifier for github. maybe i should just use shortcut but i'm lazy
 // ==/UserScript==
